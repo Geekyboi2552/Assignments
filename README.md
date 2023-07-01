@@ -1,0 +1,6 @@
+# SmartBridge-AI-Internship
+This project was done in the summer internship session june 2023 under the guidance of Hari sir
+
+Created by: 
+Malay Rajpoot 20BEC0664 malay.rajpoot2020@vitstudent.ac.in
+9456708407
